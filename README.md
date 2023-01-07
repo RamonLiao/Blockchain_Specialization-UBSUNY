@@ -36,4 +36,4 @@ The speclization comprises of 4 courses:
 
 # Disclaimer
 
-The assignment and solutions are only for reference purposes to support new learners who may get stuck in assignments. Learning is a long-term journey. Never give up and you will make it!  
+The assignment and solutions are only for reference purposes to support new learners who may get stuck in assignments. Learning is a long-term journey. Never give up and you will make it!!  
