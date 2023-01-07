@@ -3,11 +3,11 @@ Lecturer: [Bina Ramamurthy](https://www.coursera.org/instructor/~5767003)
 
 #1. Introduction
 
-This repository are learning records of a professional course of blockchain offered by University at Buffalo and The State University of New York. The [Blockchain Specialization](https://www.coursera.org/specializations/blockchain#about) could be learned on Cousera. If you would like to understand blockchain, learn development, and join Web3, it's highly recommended!
+This repository are learning records of a professional course of blockchain offered by University at Buffalo and The State University of New York. The [Blockchain Specialization](https://www.coursera.org/specializations/blockchain#about) could be learned on Cousera. If you would like to understand blockchain, learn development, and join Web3, it's highly recommended! 
 
 # 2. Courses and Assignment
 
-The speclizations comprises of 4 courses:
+The speclization comprises of 4 courses:
 
 | Courses                                                      | Note                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -32,8 +32,8 @@ The speclizations comprises of 4 courses:
 
 ![Certificate](./Course 4-Blockchain Platforms/Certificate_Blockchain Platforms.pdf "Smart Contracts")
 
-
+  
 
 # Disclaimer
 
-The assignment and solutions are only for reference purposes to support new learners who may get stuck in assignments. Learning is a long-term journey. Never give up and you will make it!
+The assignment and solutions are only for reference purposes to support new learners who may get stuck in assignments. Learning is a long-term journey. Never give up and you will make it!  
