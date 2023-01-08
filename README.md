@@ -1,7 +1,7 @@
 # Blockchain Specialization
 Lecturer: [Bina Ramamurthy](https://www.coursera.org/instructor/~5767003)
 
-#1. Introduction
+# 1. Introduction
 
 This repository are learning records of a professional course of blockchain offered by University at Buffalo and The State University of New York. The [Blockchain Specialization](https://www.coursera.org/specializations/blockchain#about) could be learned on Cousera. If you would like to understand blockchain, learn development, and join Web3, it's highly recommended! 
 
@@ -22,15 +22,15 @@ The speclization comprises of 4 courses:
 
 
 
-![Certificate](./Certificate_Blockchain.pdf "Blockchain Specilization")
+![Certificate](./Certificate_Blockchain.jpg "Blockchain Specilization")
 
-![Certificate](./Course 1-Blockchain Basics/Certificate_Blockchain Basics.pdf "Blockchain Basics")
+![Certificate](./Course 1-Blockchain Basics/Certificate_Blockchain Basics.jpg "Blockchain Basics")
 
-![Certificate](./Course 2-Smart Contracts/Certificate_Smart Contracts.pdf "Smart Contracts")
+![Certificate](./Course 2-Smart Contracts/Certificate_Smart Contracts.jpg "Smart Contracts")
 
-![Certificate](./Course 3-Decentralized Applications (Dapps)/Certificate_Decentralised Applications (Dapps).pdf "Smart Contracts")
+![Certificate](./Course 3-Decentralized Applications (Dapps)/Certificate_Decentralised Applications (Dapps).jpg "Smart Contracts")
 
-![Certificate](./Course 4-Blockchain Platforms/Certificate_Blockchain Platforms.pdf "Smart Contracts")
+![Certificate](./Course 4-Blockchain Platforms/Certificate_Blockchain Platforms.jpg "Smart Contracts")
 
   
 
