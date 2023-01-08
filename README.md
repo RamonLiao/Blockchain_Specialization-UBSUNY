@@ -26,11 +26,11 @@ The speclization comprises of 4 courses:
 
 ![Certificate](./Course%201-Blockchain%20Basics/Certificate_Blockchain%20Basics.jpg "Blockchain Basics")
 
-<img src="./Course 2-Smart Contracts/Certificate_Smart Contracts.jpg"/ alt="Smamrt Contracts">
+<img src="./Course 2-Smart Contracts/Certificate_Smart Contracts.jpg" alt="Smamrt Contracts">
 
 ![Certificate](./Course%203-Decentralized%20Applications%20(Dapps)/Certificate_Decentralised%20Applications%20(Dapps).jpg "Smart Contracts")
 
-<img src="./Course 4-Blockchain Platforms/Certificate_Blockchain Platforms.jpg"/ alt="Blockchain Platforms">
+<img src="./Course 4-Blockchain Platforms/Certificate_Blockchain Platforms.jpg" alt="Blockchain Platforms">
 
   
 
