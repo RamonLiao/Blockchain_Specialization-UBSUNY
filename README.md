@@ -12,7 +12,7 @@ The speclization comprises of 4 courses:
 | Courses                                                      | Note                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <a href="https://github.com/RamonLiao/Blockchain_Specialization-UBSUNY/tree/main/Course%201-Blockchain%20Basics">Course 1-Blockchain Basics</a> | Understand the history of Blockchain and fundamental logics of blockchain |
-| <a href="https://github.com/RamonLiao/Blockchain_Specialization-UBSUNY/tree/main/Course%202-Smart%20Contracts">Course 2-Smart Contracts</a> | Understand how to develop smart contracts in Solidity and how to deploy |
+| <a href="https://github.com/RamonLiao/Blockchain_Specialization-UBSUNY/tree/main/Course%202-Smart%20Contracts">Course 2-Smart Contracts</a> | Understand how to develop smart contracts in Solidity, how to deploy, and how to test smart contract by using JavaScripts |
 | <a href="https://github.com/RamonLiao/Blockchain_Specialization-UBSUNY/tree/main/Course%203-Decentralized%20Applications%20(Dapps)">Course 3-Decntralized Applications (Dapps)</a> | Introduce the standards and concepts of develop decentralized apps |
 | <a href="https://github.com/RamonLiao/Blockchain_Specialization-UBSUNY/tree/main/Course%204-Blockchain%20Platforms">Course 4-Blockchain Platforms</a> | Understand platforms and tools for developing blockchain <br />Also introduce th future development of blockchain. |
 
