@@ -3,7 +3,7 @@ Lecturer: [Bina Ramamurthy](https://www.coursera.org/instructor/~5767003)
 
 # 1. Introduction
 
-This repository are learning records of a professional course of blockchain offered by University at Buffalo and The State University of New York. The [Blockchain Specialization](https://www.coursera.org/specializations/blockchain#about) could be learned on Cousera. If you would like to understand blockchain, learn development, and join Web3, it's highly recommended! 
+This repository are learning records of a professional course of blockchain offered by University at Buffalo and The State University of New York. The [Blockchain Specialization](https://www.coursera.org/specializations/blockchain#about) could be learned on Coursera. If you would like to understand blockchain, learn development, and join Web3, it's highly recommended! 
 
 # 2. Courses and Assignment
 
